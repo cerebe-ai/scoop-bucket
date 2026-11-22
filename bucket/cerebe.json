@@ -1,19 +1,19 @@
 {
-    "version": "9.20.3",
+    "version": "9.20.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cerebe-ai/cerebe/releases/download/v9.20.3/cerebe_9.20.3_windows_amd64.zip",
+            "url": "https://github.com/cerebe-ai/cerebe/releases/download/v9.20.4/cerebe_9.20.4_windows_amd64.zip",
             "bin": [
                 "cerebe.exe"
             ],
-            "hash": "3c8cb8206fb38a1c1f01c5cfdfef6f5f70df1124be2bd914adcc4d329a822c28"
+            "hash": "c66f595f1217282b5b41269992c262742ec4c16e82fef0b0d7a9eb66ade8f6d1"
         },
         "arm64": {
-            "url": "https://github.com/cerebe-ai/cerebe/releases/download/v9.20.3/cerebe_9.20.3_windows_arm64.zip",
+            "url": "https://github.com/cerebe-ai/cerebe/releases/download/v9.20.4/cerebe_9.20.4_windows_arm64.zip",
             "bin": [
                 "cerebe.exe"
             ],
-            "hash": "30668b94f5e93aa00c745edec5943e330c504eee333349739f26b396528b0ec3"
+            "hash": "41b1fbb992d5da5568e5e13d3922d5e72861a6c7c91253421580012eb14aefc7"
         }
     },
     "homepage": "https://cerebe.ai",
