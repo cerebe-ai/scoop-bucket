@@ -1,19 +1,19 @@
 {
-    "version": "9.20.4",
+    "version": "9.20.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cerebe-ai/cerebe/releases/download/v9.20.4/cyclone_9.20.4_windows_amd64.zip",
+            "url": "https://github.com/cerebe-ai/cerebe/releases/download/v9.20.5/cyclone_9.20.5_windows_amd64.zip",
             "bin": [
                 "cyclone.exe"
             ],
-            "hash": "d7065763e1236113c4f56fd612111a733fb5d3e147c204252ba4c4ca5ac3d6f8"
+            "hash": "e08f5f69be9c804f93968c7ab120fa021d6d33376759ea011083b57bb244eeec"
         },
         "arm64": {
-            "url": "https://github.com/cerebe-ai/cerebe/releases/download/v9.20.4/cyclone_9.20.4_windows_arm64.zip",
+            "url": "https://github.com/cerebe-ai/cerebe/releases/download/v9.20.5/cyclone_9.20.5_windows_arm64.zip",
             "bin": [
                 "cyclone.exe"
             ],
-            "hash": "bab3f4b746be7e7e6f78199ad937ba2fbf9eca96d606e628535ef7610cb486a2"
+            "hash": "6a62550ad2829377a5f9d57b8aabd1b7cb4001924d314042a7c71569f4991311"
         }
     },
     "homepage": "https://cerebe.ai",
